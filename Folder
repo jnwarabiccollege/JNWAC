@@ -1,0 +1,27 @@
+/online-course-platform
+│
+├── /public
+│   ├── index.html
+│   ├── course.html
+│   ├── quiz.html
+│   ├── dashboard.html
+│   ├── certificate.html
+│   ├── styles.css
+│   └── app.js
+│
+├── /src
+│   ├── auth.js
+│   ├── courses.js
+│   ├── quizEngine.js
+│   ├── certificateGenerator.js
+│   └── utils.js
+│
+├── /cloud-functions
+│   ├── index.js          # Firebase Cloud Functions (certificate automation)
+│   └── package.json
+│
+├── /design
+│   ├── certificate_template.png
+│   └── logo.png
+│
+└── firebase.json
