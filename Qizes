@@ -1,0 +1,11 @@
+quizzes
+   courseId
+      questions: [
+          {
+             qid: 1,
+             question: "What is Python?",
+             options: ["Language", "Snake", "Game", "None"],
+             answer: 0
+          },
+          ...
+      ]
