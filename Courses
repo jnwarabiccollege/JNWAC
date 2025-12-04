@@ -1,0 +1,15 @@
+courses
+   courseId
+      name: "Python Basics"
+      description: "Learn Python"
+      thumbnail: "storage_url"
+      syllabus_pdf: "storage_url"
+      video_playlist: "youtube_playlist_id"
+      lessons: [
+          {
+            lessonId: 1,
+            title: "Introduction",
+            video_url: "yt_link"
+          },
+          ...
+      ]
